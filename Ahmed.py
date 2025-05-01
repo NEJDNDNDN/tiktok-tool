@@ -1,3 +1,3 @@
-print("مرحبا بك في أداة 𝑫𝑨𝑹𝑲 𝑯𝑨𝑪𝑲𝑬𝑹!")
-url = input("ادخل رابط: ")
-print(f"جاري العمل على الرابط: {url}")
+print("Welcome to the 𝑫𝑨𝑹𝑲 𝑯𝑨𝑪𝑲𝑬𝑹 Tool!")
+url = input("Enter the URL: ")
+print(f"Processing the URL: {url}")
